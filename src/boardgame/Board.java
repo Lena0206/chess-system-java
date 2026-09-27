@@ -1,5 +1,7 @@
 package boardgame;
 
+import chess.Color;
+
 public class Board {
 
     private int rows;
